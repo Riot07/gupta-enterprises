@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="12" fill="#060A14"/>
+  <rect x="16" y="16" width="48" height="48" rx="12" fill="url(#paint0_linear)"/>
+  <path d="M28 34L40 27L52 34L40 41L28 34Z" fill="#060A14"/>
+  <path d="M28 41L40 48L52 41L40 34L28 41Z" fill="#0B1120"/>
+  <path d="M28 48L40 55L52 48L40 41L28 48Z" fill="#1E2F52"/>
+  <text x="76" y="42" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="900" letter-spacing="1">GUPTA ENTERPRISES</text>
+  <text x="76" y="58" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="2">WHOLESALE DISTRIBUTOR</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="16" y1="16" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+</svg>
